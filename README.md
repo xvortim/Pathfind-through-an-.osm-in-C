@@ -10,4 +10,4 @@ It uses an xml parser to convert the .osm file to .txt. It gives us 3 .txt files
 - putevi.txt: shows all the nodes connected to one way
 
 The code was compiled on Linux terminal using:
-gcc graf_lista.c -I/usr/include/libxml2 -o a.out -lxml2 -lm
+- gcc graf_lista.c -I/usr/include/libxml2 -o a.out -lxml2 -lm
